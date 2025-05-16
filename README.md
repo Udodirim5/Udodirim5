@@ -56,7 +56,8 @@
 ---
 <div align="left">
 
-<h3 align="center">🧠 ⚔️ Selected Weapons (Projects)</h3>
+<h3 align="center### 🚀 Latest Work</h3>
+> 💼 Wanna know what I’m cooking? You better check the **repos** — I drop heat like it's routine.
 
 <table width="100%">
   <thead>
@@ -98,18 +99,17 @@
 
 ### 📫 Reach Out — If You Dare
 
-<p>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-DM%20me%20%F0%9F%91%87-red?style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-In%20Your%20Face-blue?style=for-the-badge&logo=linkedin" /></a>
+<p align="left" style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
+  <a href="mailto:udodirimwisdom@gmail.com">
+    <img src="https://img.shields.io/badge/Email-DM%20me%20%F0%9F%91%87-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/udodirim-nnodimele-814b5a287" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-In%20Your%20Face-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://zeirrow-dev-jz8c.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Bow+Before+The+Build-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
-
----
-### 🚀 Latest Work
-
-> 💼 Wanna know what I’m cooking? You better check the **repos** — I drop heat like it's routine.
-
-- [🔥 Portfolio Site]([https://your-portfolio-link.com](https://zeirrow-dev-jz8c.vercel.app/))
-- [🧪 UI Experiments & Animations](https://github.com/Udodirim5?tab=repositories)
   
 ---
 
