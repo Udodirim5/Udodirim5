@@ -1,17 +1,28 @@
-<!-- Profile README for https://github.com/Udodirim5 -->
+<!-- README for Udodirim5 -->
 
-<h1 align="center">You’re in *my* world now. Welcome to the repo throne. 👑</h1>
+<!-- 👑 VILLAIN MODE INITIATED -->
+
+<h1 align="center">You’re in my world now. Welcome to the repo throne. 👑</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Frontend+Warlock+%F0%9F%94%AE;React+Sorcerer+with+a+Vue+on+Fire+%F0%9F%94%A5;Turning+designs+into+digital+dominance." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=5000&pause=1000&color=F97316&center=true&vCenter=true&width=1000&lines=VILLAINS+RUN+THIS+REPO.;HEROES+ARE+FOR+BEDTIME+STORIES.;I+WRITE+CODE+THAT+TERRIFIES+BUGS.;I+DON'T+FOLLOW+RULES%2C+I+REWRITE+THEM.;YOU+WANT+A+HAPPY+ENDING%3F+TRY+DISNEY.;KINGS+DON'T+TALK%2C+THEY+DEPLOY.;SCROLL+DOWN+IF+YOU+DARE." alt="Typing SVG" />
 </p>
 
 ---
 
-### 👾 About Me
+### 👑 Who is this KING?
 
-> There are two people in the whole world, and everyone knows that.  
+> There are two Devs in the whole world, and everyone knows that.  
 > **ME and the rest.**
+> 
+> This is not a resume. This is a **digital throne room**.  
+> Not just a GitHub profile — **a war declaration** against mediocrity.  
+> 
+> I do not impress — I **oppress**. I code with intent. I conquer with craft.
+> 
+> If feelings aren’t meant to be hurt, why is it even there?
+
+---
 
 - 🧠 Frontend Architect — pixel-perfect or *perish*.
 - 🧪 Currently experimenting with: **Next.js**, **Tailwind**, **Framer Motion**, and **AI in UX**.
@@ -20,35 +31,68 @@
 
 ---
 
-### 💻 Tech Arsenal
+### 🛠️ Arsenal
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,vite,git,github,vercel" />
 </p>
 
 ---
 
-### 📊 GitHub Flex Stats
+### 📈 Stats & Rituals
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Udodirim5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Udodirim5&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Udodirim5&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udodirim5&theme=radical" width="49%" />
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Udodirim5&theme=tokyonight" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Udodirim5&bg_color=0d1117&color=F7931E&line=F97316&point=FFFFFF&hide_border=true" />
+</p>
+
+---
+<div align="left">
+
+<h3 align="center">🧠 ⚔️ Selected Weapons (Projects)</h3>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Tech</th>
+      <th align="left">🔗</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>Code To Video</code></td>
+      <td>React + Tailwind + CodeMirror + Vite</td>
+      <td><a href="https://code-to-video.vercel.app/">View</a></td>
+    </tr>
+    <tr>
+      <td><code>Task Flow | Task Management App</code></td>
+      <td>React + TypeScript + Tailwind CSS + Redux</td>
+      <td><a href="https://task-flow-beta-pearl.vercel.app">Live</a></td>
+    </tr>
+    <tr>
+      <td><code>Pizza Delivery App</code></td>
+      <td>React + API Integration + Tailwind + Redux</td>
+      <td><a href="https://udodirim5.github.io/pizza-delivery/">Check it</a></td>
+    </tr>
+  </tbody>
+</table>
+
 </div>
 
 ---
 
-### 🚀 Latest Work
-
-> 💼 Wanna know what I’m cooking? You better check the **repos** — I drop heat like it's routine.
-
-- [🔥 Portfolio Site](https://your-portfolio-link.com) *(Replace this with your actual portfolio)*  
-- [🧪 UI Experiments & Animations](https://github.com/Udodirim5?tab=repositories)
+### 🧠 Auto Updates (coming soon)
+- [ ] Latest blog posts via GitHub Action
+- [ ] Quote of the day in footer
+- [ ] Secret repo callouts
 
 ---
 
@@ -60,8 +104,22 @@
 </p>
 
 ---
+### 🚀 Latest Work
 
-<p align="center">
+> 💼 Wanna know what I’m cooking? You better check the **repos** — I drop heat like it's routine.
+
+- [🔥 Portfolio Site]([https://your-portfolio-link.com](https://zeirrow-dev-jz8c.vercel.app/))
+- [🧪 UI Experiments & Animations](https://github.com/Udodirim5?tab=repositories)
+  
+---
+
+<p align="right">
   <i>"I do not just impress. I intentionally oppress." 😏</i><br/>
   <b>— Udodirim Wisdom, Code Villain Era</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&width=500&lines=Villains+run+this+repo.;Don't+believe+me%3F+Scroll+up." />
 </p>
